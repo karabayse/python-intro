@@ -15,3 +15,8 @@ my_bool = True
 print my_int
 print my_float
 print my_bool
+
+
+my_int = 7
+
+my_int = 3
