@@ -37,7 +37,6 @@ Holy Grail.
 
 
 
-
 # math
 addition = 72 + 23
 subtraction = 108 - 204
@@ -49,7 +48,12 @@ print count_to
 
 
 
-
 # exponentiation
 eggs = 10 ** 2
 print eggs
+
+
+
+# modulo
+spam = 8 % 7
+print spam
