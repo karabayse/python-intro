@@ -26,3 +26,12 @@ my_int = 3
 # variable assignment
 
 mysterious_variable = 42
+
+
+
+"""Sipping from your cup 'til it runneth over,
+Holy Grail.
+"""
+
+# Sipping from your cup 'til it runneth over,
+# Holy Grail.
