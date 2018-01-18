@@ -46,3 +46,10 @@ division = 108 / 9
 
 count_to = 5000 + 6000
 print count_to
+
+
+
+
+# exponentiation
+eggs = 10 ** 2
+print eggs
