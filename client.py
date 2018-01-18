@@ -20,3 +20,9 @@ print my_bool
 my_int = 7
 
 my_int = 3
+
+
+
+# variable assignment
+
+mysterious_variable = 42
