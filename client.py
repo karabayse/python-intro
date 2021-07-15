@@ -47,13 +47,21 @@ count_to = 5000 + 6000
 print count_to
 
 
-
 # exponentiation
 eggs = 10 ** 2
 print eggs
 
 
-
 # modulo
 spam = 8 % 7
 print spam
+
+
+# access by index
++---+---+---+---+---+---+
+| P | Y | T | H | O | N |
++---+---+---+---+---+---+
+  0   1   2   3   4   5
+fifth_letter = "PYTHON"[4]
+
+print fifth_letter
