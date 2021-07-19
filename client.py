@@ -65,3 +65,10 @@ print spam
 fifth_letter = "PYTHON"[4]
 
 print fifth_letter
+
+
+# string methods
+len()
+lower()
+upper()
+str()
