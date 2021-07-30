@@ -75,3 +75,7 @@ str()
 
 parrot = "Norwegian Blue"
 print len(parrot)
+
+
+# lower method
+"Ryan".lower()  # returns "ryan"
