@@ -79,3 +79,6 @@ print len(parrot)
 
 # lower method
 "Ryan".lower()  # returns "ryan"
+
+# upper method
+"ryan".upper()  # returns "RYAN"
