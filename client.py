@@ -76,9 +76,12 @@ str()
 parrot = "Norwegian Blue"
 print len(parrot)
 
-
 # lower method
 "Ryan".lower()  # returns "ryan"
 
 # upper method
 "ryan".upper()  # returns "RYAN"
+
+# str method
+pi = 3.14
+print str(pi)
