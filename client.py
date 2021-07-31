@@ -85,3 +85,11 @@ print len(parrot)
 # str method
 pi = 3.14
 print str(pi)
+
+# dot notation
+# methods that use dot notation only work with strings
+# len() and str() can work on other data types
+ministry = "The Ministry of Silly Walks"
+
+print len(ministry)
+print ministry.upper()
