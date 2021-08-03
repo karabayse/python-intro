@@ -97,3 +97,7 @@ print ministry.upper()
 
 # concatenation
 print "Life " + "of " + "Brian"
+
+
+# explicit string conversion
+print "I have " + str(2) + " coconuts!"
