@@ -101,3 +101,8 @@ print "Life " + "of " + "Brian"
 
 # explicit string conversion
 print "I have " + str(2) + " coconuts!"
+
+
+# The % operator after the string is used to combine a string with variables
+name = "Winnie"
+print "Hello %s" % (name)
