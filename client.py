@@ -106,3 +106,14 @@ print "I have " + str(2) + " coconuts!"
 # The % operator after the string is used to combine a string with variables
 name = "Winnie"
 print "Hello %s" % (name)
+
+
+# If you’d like to print a variable that is an integer, you can “pad” it with
+# zeros using %02d. The 0 means “pad with zeros”, the 2 means to pad to 2
+# characters wide, and the d means the number is a signed integer
+# (can be positive or negative).
+day = 6
+print "03 - %s - 2021" %  (day)
+# 03 - 6 - 2021
+print "03 - %02d - 2021" % (day)
+# 03 - 06 - 2021
